@@ -18,3 +18,8 @@ A practical toolkit for file automation tasks: hashing, renaming previews, exten
 ```bash
 python python/file_report.py .
 ```
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/10-file-processing-toolkit.html
